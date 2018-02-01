@@ -143,3 +143,4 @@ I don't like using relative paths if I don't have to (I hate trying to remember 
 ## Service Worker
 I set up a service worker at root for PWA support.  Add any url you want to cache locally in that file.  Be sure to customize the manifest.json file at the root with your project specifics.
 
+#sw-next-save
